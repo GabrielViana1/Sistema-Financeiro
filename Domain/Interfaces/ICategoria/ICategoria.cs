@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.ICategoria
 {
-    internal interface ICategoria
+    public interface ICategoria
     {
     }
 }
